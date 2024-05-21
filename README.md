@@ -1,7 +1,7 @@
 <h1 align= "center"><b>Hey 👋, I'm Pham Huynh Phuong Kha</b></h1>
 <h3 align= "center">I am a newbie in software engineering. On the way to swim into the vast ocean of the industry.</h3>
 
-<img align="right" width="400" height="400" src="https://www.bing.com/images/search?view=detailV2&ccid=KQNWi2vl&id=CA72EDFFF237A3E953F2B00494A2F0EA81489998&thid=OIP.KQNWi2vloH_T9TIYucWKWwHaEK&mediaurl=https%3a%2f%2fc4.wallpaperflare.com%2fwallpaper%2f547%2f392%2f50%2fousama-ranking-anime-boys-simple-background-hd-wallpaper-preview.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2903568b6be5a07fd3f53218b9c58a5b%3frik%3dmJlIgerwopQEsA%26pid%3dImgRaw%26r%3d0&exph=410&expw=728&q=boji+anime&simid=608041978281592819&FORM=IRPRST&ck=532F7F78BC3E26D4028E406977A972B7&selectedIndex=0&itb=0&idpp=overlayview&ajaxhist=0&ajaxserp=0">
+<img align="right" width="350" height="350" src="https://www.bing.com/images/search?view=detailV2&ccid=KQNWi2vl&id=CA72EDFFF237A3E953F2B00494A2F0EA81489998&thid=OIP.KQNWi2vloH_T9TIYucWKWwHaEK&mediaurl=https%3a%2f%2fc4.wallpaperflare.com%2fwallpaper%2f547%2f392%2f50%2fousama-ranking-anime-boys-simple-background-hd-wallpaper-preview.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2903568b6be5a07fd3f53218b9c58a5b%3frik%3dmJlIgerwopQEsA%26pid%3dImgRaw%26r%3d0&exph=410&expw=728&q=boji+anime&simid=608041978281592819&FORM=IRPRST&ck=532F7F78BC3E26D4028E406977A972B7&selectedIndex=0&itb=0&idpp=overlayview&ajaxhist=0&ajaxserp=0">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning <b>back-end</b>
