@@ -8,18 +8,21 @@
 - 📫 How to reach me: [khaphpdz@gmail.com](khaphpdz@gmail.com)
 - ⚡ Fun fact: <b>Bún Riêu, Cơm Tấm, Bún Bò Huế, ... are the best</b>
 
+<h3 align= "center">Tech Stack</h3>
+- coming soon...
+
 <details>
   <summary>:zap: Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=BlueEyesssss&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 </details>
 
+<!--
+**BlueEyesssss/BlueEyesssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <details>
   <summary>:zap: Languages Used</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueEyesssss&layout=compact&bg_color=151515&text_color=9f9f9f">
 </details>
-
-<!--
-**BlueEyesssss/BlueEyesssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
