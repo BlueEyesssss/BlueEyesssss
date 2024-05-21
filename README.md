@@ -8,7 +8,7 @@
 - 📫 How to reach me: [khaphpdz@gmail.com](khaphpdz@gmail.com)
 - ⚡ Fun fact: <b>Bún Riêu, Cơm Tấm, Bún Bò Huế, ... are the best</b>
 
-<h3 align= "center">Tech Stack</h3>
+<h3>Tech Stack</h3>
 - coming soon...
 
 <details>
