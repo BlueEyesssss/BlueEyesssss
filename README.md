@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align= "center"><b>Hey 👋, I'm Pham Huynh Phuong Kha</b></h1>
+
 
 <!--
 **BlueEyesssss/BlueEyesssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
