@@ -1,15 +1,12 @@
 <h1 align= "center"><b>Hey 👋, I'm Pham Huynh Phuong Kha</b></h1>
 <h3 align= "center">I am a newbie in software engineering. On the way to swim into the vast ocean of the industry.</h3>
 
-<img align="right" width="350" src="[https://th.bing.com/th/id/R.2903568b6be5a07fd3f53218b9c58a5b?rik=mJlIgerwopQEsA&pid=ImgRaw&r=0](https://i.pinimg.com/originals/02/79/e6/0279e6b012ba6fe706d26a96b14534c5.gif)">
+<img align="right" width="350" src="https://images.pexels.com/photos/3426856/pexels-photo-3426856.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning <b>back-end</b>
 - 📫 How to reach me: [khaphpdz@gmail.com](khaphpdz@gmail.com)
 - ⚡ Fun fact: <b>Bún Riêu, Cơm Tấm, Bún Bò Huế, ... are the best</b>
-
-<h3>Tech Stack</h3>
-- coming soon...
 
 <details>
   <summary>:zap: Github Stats</summary>
