@@ -1,7 +1,7 @@
 <h1 align= "center"><b>Hey 👋, I'm Pham Huynh Phuong Kha</b></h1>
 <h3 align= "center">I am a newbie in software engineering. On the way to swim into the vast ocean of the industry.</h3>
 
-<img align="right" width="350" height="350" src="https://th.bing.com/th/id/R.2903568b6be5a07fd3f53218b9c58a5b?rik=mJlIgerwopQEsA&pid=ImgRaw&r=0">
+<img align="right" width="350" src="https://th.bing.com/th/id/R.2903568b6be5a07fd3f53218b9c58a5b?rik=mJlIgerwopQEsA&pid=ImgRaw&r=0">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning <b>back-end</b>
@@ -18,7 +18,7 @@
 
 <!--
 **BlueEyesssss/BlueEyesssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+height="350"
 <details>
   <summary>:zap: Languages Used</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueEyesssss&layout=compact&bg_color=151515&text_color=9f9f9f">
